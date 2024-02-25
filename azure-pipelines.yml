@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Hardy
+  name: nayeemselfhosted
 
 steps:
 - task: Maven@3
